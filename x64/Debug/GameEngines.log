@@ -1,0 +1,47 @@
+﻿  Camera.cpp
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\util.h(36,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  CameraController.cpp
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\util.h(36,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Component.cpp
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\util.h(36,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\Component.cpp(49,2): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\Component.cpp(159,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\Component.cpp(165,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\Component.cpp(172,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\Component.cpp(177,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GameEngines.cpp
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\util.h(36,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\GameEngines.cpp(83,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\GameEngines.cpp(84,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\GameEngines.cpp(88,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\GameEngines.cpp(89,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\GameEngines.cpp(91,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\GameEngines.cpp(92,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\GameEngines.cpp(100,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\GameEngines.cpp(170,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GameObject.cpp
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\util.h(36,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Light.cpp
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\util.h(36,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\Light.cpp(152,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\Light.cpp(153,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\Light.cpp(255,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\Light.cpp(256,18): warning C4305: '=': truncation from 'double' to 'float'
+  MeshRenderer.cpp
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\util.h(36,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\MeshRenderer.cpp(73,82): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  ObjectMover.cpp
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\util.h(36,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PhysicsWorld.cpp
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\util.h(36,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  RigidBody.cpp
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\util.h(36,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Scene.cpp
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\util.h(36,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\Scene.cpp(50,59): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  GameEngines.vcxproj -> C:\Users\morga\Programing\C++\GameEngine\GameEngines\x64\Debug\GameEngines.exe

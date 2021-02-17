@@ -1,0 +1,40 @@
+GameObject
+Name ->cube
+Pos ->0 0 0
+Rot ->45 45 45
+Scl ->0.5 0.5 0.5
+
+Num Components ->1
+**Component**
+Component ID ->6
+Type ->MeshRenderer
+NumAttributes ->3
+Model ->cube.obj
+Material ->
+Shader ->0
+----------------------
+GameObject
+Name ->light
+Pos ->2 0.5 4
+Rot ->0 0 0
+Scl ->0.5 0.5 0.5
+
+Num Components ->2
+**Component**
+Component ID ->1
+Type ->PointLight
+NumAttributes ->6
+Ambient ->0.050000 0.050000 0.050000
+Diffuse ->0.800000 0.800000 0.800000
+Specular ->1.000000 1.000000 1.000000
+Constant ->1
+Linear ->0.09
+Quadratic ->0.032
+**Component**
+Component ID ->6
+Type ->MeshRenderer
+NumAttributes ->3
+Model ->cube.obj
+Material ->
+Shader ->1
+----------------------

@@ -1,0 +1,2 @@
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\x64\Debug\GameEngines.exe
+C:\Users\morga\Programing\C++\GameEngine\GameEngines\x64\Debug\GameEngines.pdb
